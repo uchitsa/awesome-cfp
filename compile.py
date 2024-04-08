@@ -39,6 +39,7 @@ for item in rows:
                 if type(v) is int:
                     v = str(v)
                 markdown_table += v + " | "
+        markdown_table.rstrip()
         markdown_table += "\n"
 
 markdown += markdown_table
