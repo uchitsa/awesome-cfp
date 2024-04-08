@@ -13,9 +13,21 @@
   - url: "[POPL'25](https://conf.researchr.org/home/POPL-2025)"
   - publisher: ACM
   - CORE: "[A*](https://portal.core.edu.au/conf-ranks/82/)"
-  - Scope: SE
+  - Scope: PL
   - Short pages:
   - Full pages: 25
   - Format:
   - CFP: 11.07.2025
   - Country: United States
+
+"ICSE'25":
+  - url: "[ICSE'25](https://conf.researchr.org/home/icse-2025)"
+  - publisher: IEEE
+  - CORE: "[A*](https://portal.core.edu.au/conf-ranks/1209/)"
+  - Scope: SE
+  - Short pages:
+  - Full pages: 10
+  - Format:
+  - CFP: 02.08.2024
+  - Country: Canada
+
