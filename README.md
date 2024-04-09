@@ -13,13 +13,11 @@ you don't need to visit all conference websites. If you want your favorite
 conference to be included so you won't miss its deadline,
 please send us a pull request.
 
-<!-- events -->
-| year | name | publisher | rank | core | scope | short | full | format | cfp | country |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2025 | [PLDI'25](https://conf.researchr.org/series/pldi) | ACM | A* | https://portal.core.edu.au/conf-ranks/84/ | PL |   | 20 | 1C |   | Denmark | 
-| 2025 | [POPL'25](https://conf.researchr.org/home/POPL-2025) | ACM | A* | https://portal.core.edu.au/conf-ranks/82/ | SE |   | 25 |   | 2025-07-11 | United States | 
-
-<!-- events -->
+| name | publisher | CORE | Scope | Short pages | Full pages | Format | CFP | Country |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [PLDI'25](https://conf.researchr.org/series/pldi) | ACM | [A*](https://portal.core.edu.au/conf-ranks/84/) | PL |   | 20 | 1C |   | Denmark | 
+| [POPL'25](https://conf.researchr.org/home/POPL-2025) | ACM | [A*](https://portal.core.edu.au/conf-ranks/82/) | PL |   | 25 |   | 11.07.2025 | United States | 
+| [ICSE'25](https://conf.researchr.org/home/icse-2025) | IEEE | [A*](https://portal.core.edu.au/conf-ranks/1209/) | SE |   | 10 |   | 02.08.2024 | Canada | 
 
 **SE** stands for "Software Engineering",
 **SA** for "Software Architecture",
