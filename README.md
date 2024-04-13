@@ -16,8 +16,8 @@ please send us a pull request.
 <!-- events -->
 | year | name | publisher | rank | core | scope | short | full | format | cfp | country |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2025 | [PLDI'25](https://conf.researchr.org/series/pldi) | ACM | A* | https://portal.core.edu.au/conf-ranks/84/ | PL |   | 20 | 1C |   | Denmark | 
-| 2025 | [POPL'25](https://conf.researchr.org/home/POPL-2025) | ACM | A* | https://portal.core.edu.au/conf-ranks/82/ | SE |   | 25 |   | 2025-07-11 | United States | 
+| 2025 | [PLDI'25](https://conf.researchr.org/series/pldi) | ACM | A* | https://portal.core.edu.au/conf-ranks/84/ | PL |   | 20 | 1C |   | Denmark |
+| 2025 | [POPL'25](https://conf.researchr.org/home/POPL-2025) | ACM | A* | https://portal.core.edu.au/conf-ranks/82/ | SE |   | 25 |   | 2025-07-11 | United States |
 
 <!-- events -->
 
