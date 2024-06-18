@@ -1,3 +1,4 @@
+[![Hits-of-Code](https://hitsofcode.com/github/uchitsa/pyxembly?branch=data-yaml)](https://hitsofcode.com/github/uchitsa/pyxembly/view?branch=data-yaml)
 # Curated List of CFPs
 
 This is a curated list of currently open Calls for Papers for computer
