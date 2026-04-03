@@ -6,7 +6,7 @@
 #
 anyio==4.12.1
     # via httpx
-certifi==2026.1.4
+certifi==2026.2.25
     # via
     #   httpcore
     #   httpx
@@ -41,7 +41,7 @@ pytest==9.0.2
     #   -r requirements.in
     #   pytest-cov
     #   pytest-randomly
-pytest-cov==7.0.0
+pytest-cov==7.1.0
     # via -r requirements.in
 pytest-randomly==4.0.1
     # via -r requirements.in
